@@ -21,5 +21,31 @@ However, out of the individual lots statistics, Lot3 exceeds the benchmark by ov
 ![image](https://user-images.githubusercontent.com/78067427/120135160-a0660980-c19d-11eb-80be-46145003d794.png)
 
 
+## T-Tests on Suspension Coils
+
+First, we run the manufacturing lots against the industry standard of 1,500 PSI coils.
+
+![image](https://user-images.githubusercontent.com/78067427/120139569-ba581a00-c1a6-11eb-8c98-0a01ef400d35.png)
+
+The p-value is above 0.05, which means not sufficient to reject the null hypothesis. 
+
+Let's look at the individual lots to see its p-values to the significant level
+
+![image](https://user-images.githubusercontent.com/78067427/120140306-4159c200-c1a8-11eb-985e-175b84720665.png)    
+![image](https://user-images.githubusercontent.com/78067427/120140318-4ae32a00-c1a8-11eb-9dd0-b21f46abd0f6.png)
+
+Lot1 and Lot2 are within P-values 1 and 0.6, well within the significant levels but below is Lot3 which has p-value of 0.04 which is below 0.05
+
+![image](https://user-images.githubusercontent.com/78067427/120140727-263b8200-c1a9-11eb-9437-b870d0f43c78.png)
+
+Therefore, there is sufficient statistical evidence that our null hypothesis is not true, and we would reject our null hypothesis.
 
 
+## Study Design: MechaCar vs Competition
+
+ - The statistical study design has the following:
+    - It will be of interest to a customer of having affordable cost over the competition, having innovative cheaper parts on the engine, body parts, accessories and tires would improve the speed as well.
+    - Null hypothesis: The cost for MechaCars is affordable to their competitors
+    - Alternative hypothesis: The cost of MechaCars is not affordable to their competitors
+    - A statistical test would be to measure the cost of accessories to those of the competitors, or measure the speed of having cheaper innovative parts to that of the competitors.
+    - The data for the statistical test would be on engine weights or/and quality of accessories' materials.
