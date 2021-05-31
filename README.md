@@ -48,4 +48,4 @@ Therefore, there is sufficient statistical evidence that our null hypothesis is 
     - Null hypothesis: The cost for MechaCars is affordable to their competitors
     - Alternative hypothesis: The cost of MechaCars is not affordable to their competitors
     - A statistical test would be to measure the cost of accessories to those of the competitors, or measure the speed of having cheaper innovative parts to that of the competitors.
-    - The data for the statistical test would be on engine weights or/and quality of acessories' materials.
+    - The data for the statistical test would be on engine weights or/and quality of accessories' materials.
