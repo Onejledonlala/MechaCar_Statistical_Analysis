@@ -41,3 +41,11 @@ Lot1 and Lot2 are within P-values 1 and 0.6, well within the significant levels 
 Therefore, there is sufficient statistical evidence that our null hypothesis is not true, and we would reject our null hypothesis.
 
 
+## Study Design: MechaCar vs Competition
+
+ - The statistical study design has the following:
+    - It will be of interest to a customer of having affordable cost over the competition, having innovative cheaper parts on the engine, body parts, accessories and tires would improve the speed as well.
+    - Null hypothesis: The cost for MechaCars is affordable to their competitors
+    - Alternative hypothesis: The cost of MechaCars is not affordable to their competitors
+    - A statistical test would be to measure the cost of accessories to those of the competitors, or measure the speed of having cheaper innovative parts to that of the competitors.
+    - The data for the statistical test would be on engine weights or/and quality of acessories' materials.
